@@ -1,0 +1,25 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "axios",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiendo/axios.git"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "daiend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiendo/axios/issues"
+  },
+  "homepage": "https://github.com/daiendo/axios#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
